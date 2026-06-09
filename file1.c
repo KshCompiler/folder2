@@ -2,8 +2,9 @@
 
 int main(){
 
-    for(int i=0;i<5;i++){
-        printf(i,"\n");
+    for(int i=0;i<6;i++){
+        printf(i);
+        
     }
     return 0;
 }
